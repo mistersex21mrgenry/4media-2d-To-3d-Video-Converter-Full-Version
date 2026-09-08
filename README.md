@@ -237,3 +237,6 @@ This repository serves as the official landing page for 4Media 2D to 3D Video Co
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 4Media 2D to 3D Video Converter today!**
+
+---
+**Last updated:** 2026-09-08 03:01:18 UTC
